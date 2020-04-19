@@ -54,6 +54,12 @@ mag_cal_per_category.csv
 
 Plots produced by the code in the Jupyter Notebook were saved in a png format.
 
+File 
+```
+DFD_Project_Nutrition.jpeg
+```
+shows the data flow and the steps taken in the project to transform our input data into the output files.
+
 ## Running the project
 
 To run this project, you will need to run the jupyter notebook
