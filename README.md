@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/257061411.svg)](https://zenodo.org/badge/latestdoi/257061411)
+
 # Project Title
 
 The goal of this project was to examine nutritional data of various foods. The outcome of this project is helpful for people with special dietary needs, to make decisions on which food group should be consumed together, which food categories should be avoided.
@@ -88,4 +90,5 @@ License][cc-by].
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
  
 See the [LICENSE.md](LICENSE.md) file for details
+
 
